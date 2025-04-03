@@ -29,9 +29,8 @@ greet("홍길동")
 ```
 
 ## 링크와 이미지
-Google로 가기: [Google][googlelink]
-[Google로 가기]: https://google.com "Go google"
-![귀여운 고양이 이미지]([https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg] "[Optional title]()")
+[Google로 가기]: (https://google.com)
+![귀여운 고양이 이미지]([https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg)
 ## 할 일 몰록
 - [x] 깃헙 계정 만들기
 - [x] 리포지토리 생성하기

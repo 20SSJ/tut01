@@ -19,7 +19,7 @@
 > "배움에는 끝이 없다"
 
 ## 간단한 코드 예시 
-다음은 Python의 간단한 코드입니다.
+다음은 Python의 간단한 코드입니다 
 
 ```python
 def greet(name):

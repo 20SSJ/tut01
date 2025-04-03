@@ -20,23 +20,21 @@
 
 ## 간단한 코드 예시 
 다음은 Python의 간단한 코드입니다.
-<pre>
-<code>
+
+```python
 def greet(name):
   print(f"안녕하세요, {name}님!")
 
 greet("홍길동")
-}
-</code>
-</pre>
+'''
+
 ## 링크와 이미지
 Google로 가기: [Google][googlelink]
-[googlelink]: https://google.com "Go google"
-귀여운 고양이 이미지:
-![Alt text](/path/to/img.jpg "[Optional title](https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg)")
+[Google로 가기]: https://google.com "Go google"
+![귀여운 고양이 이미지]([https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg] "[Optional title]()")
 ## 할 일 몰록
-- [ ] 깃헙 계정 만들기
-- [ ] 리포지토리 생성하기
+- [x] 깃헙 계정 만들기
+- [x] 리포지토리 생성하기
 - [ ] README 작성하기
 - [ ] 이슈 등록하기
 
@@ -48,5 +46,5 @@ Google로 가기: [Google][googlelink]
 ## 강조하기
 - **굵은 글씨**
 - *기울임*
-  <hr/>
+<hr/>
 감사합니다! 
